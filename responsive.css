@@ -1,0 +1,115 @@
+/* .navlink {
+  color: black;
+  font-family: "Roboto";  
+  font-size: 15px;
+} */
+
+.logo {
+  width:50px;
+  height: 50px;
+}
+
+#navitem1,#navitem2,#navitem3,#navitem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+  /* font-size: 100px; */
+  padding-left:20px;
+  padding-right: 20px;
+}
+
+.banner-bg-container {
+  background-image: url('vegetablesbg.jpg');
+  height: 89.4vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner-heading {
+  color:white;
+  /* text-align: center; */
+}
+
+.banner-caption {
+  color:white;
+  /* text-align: center; */
+  text-decoration: solid;
+  font-size: 28px;
+  font-weight: 50px;
+}
+
+.button {
+  color:white;
+  background-color: yellow;
+  margin:10px;
+  padding:10px;
+  font-size: 20px;
+  height: 60px;
+  width:150px;
+  border-color: white;
+  border-radius: 10px;
+}
+
+.wcu-card {
+  text-align: center;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-radius: 10px;
+}
+
+.wcu-heading {
+  background-color: white;
+  color:black;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.wcu-caption {
+  color:black;
+  font-size:18px;
+}
+
+.deliveryimg {
+  height: 180px;
+  width: 180px;
+  /* border-color: yellow; */
+  /* border-width: 1px; */
+  /* border-style: solid; */
+}
+
+.card-description {
+  color:black
+}
+
+.exlore-menu-section {
+  background-color: white;
+}
+
+.explore-menu-heading{
+  font-size: 30px;
+  color: black;
+  font-weight: 700;
+}
+
+.card {
+  background-color: white;
+  border-radius: 13px;
+}
+
+.card-img {
+  border-radius: 20px;
+}
+
+.card-heading {
+  font-size: 22px;
+  margin-top: 10px;
+}
+
+.card-link {
+  color:yellow;
+  font-size: 18px;
+}
+
+.card-link:hover {
+  color: black;
+  background-color: yellow;
+}
