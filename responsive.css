@@ -7,10 +7,20 @@
 .logo {
   width:50px;
   height: 50px;
+  border-radius: 25px;
+}
+
+/* .container {
+  background-color: green;
+} */
+.navbar {
+  background-color: green;
+  position: fixed;
+  width:100%;
 }
 
 #navitem1,#navitem2,#navitem3,#navitem4 {
-  color: #323f4b;
+  color:whitesmoke;
   font-family: "Roboto";
   /* font-size: 100px; */
   padding-left:20px;
@@ -67,6 +77,10 @@
   color:black;
   font-size:18px;
 }
+
+/* .container {
+  background-color: green;
+} */
 
 .deliveryimg {
   height: 180px;
